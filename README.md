@@ -24,6 +24,11 @@ Este é o meu diretório pessoal de evolução acadêmica. Desenvolvi este mini-
 
 ## 🛠️ Stack Tecnológica (Mainframe)
 
+* 🟢 **HTML5** | Core Structure
+* 🟢 **CSS3** | Styling, animations, and radioactive layouts
+* 🟢 **JavaScript** | Logic for the "escaping button" and screen transitions
+* 🟢 **Google Fonts** | Pixelify Sans typography
+
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=00FF00&labelColor=black">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=00FF00&labelColor=black">
