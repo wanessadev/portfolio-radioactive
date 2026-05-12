@@ -1,7 +1,7 @@
 # ☢️ Portfolio & Blog [Radioactive Edition]
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif" width="550" alt="Gatinho no computador Y2K" />
+  <img src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif" width="450" alt="Gatinho no computador Y2K" />
 </p>
 
 <p align="center">
