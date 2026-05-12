@@ -16,6 +16,8 @@ Este é o meu diretório pessoal de evolução acadêmica. Desenvolvi este mini-
 
 🚀 **Acesse o Terminal:** [https://wanessadev.github.io/portfolio-radioactive/](https://wanessadev.github.io/portfolio-radioactive/)
 
+Obs: [ ♥ ] Best viewed in 1920x1080 — © 2026 Radioactive Sanctuary [ ♥ ]
+
 <p align="center">
   <img src="https://64.media.tumblr.com/d961947418e6f9f2ed57ffe98fa99496/tumblr_inline_n37t9kLv4H1qhwjx8.gif" width="400" alt="Estrela Pixel" />
 </p>
