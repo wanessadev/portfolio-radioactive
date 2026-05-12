@@ -29,10 +29,6 @@ Este é o meu diretório pessoal de evolução acadêmica. Desenvolvi este mini-
 
 ---
 
-## 👤 Admin Profile
-**Wanessa Honorato** Estudante de ADS & Designer Freelancer.  
-*"Codando o futuro com a estética do passado."*
-
 <p align="center">
-  <img src="https://img.shields.io/badge/MADE_BY_WANESSA-00FF00?style=flat-square&labelColor=black">
+  <img src="https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif" width="250" alt="Gatinho Gamer" />
 </p>
