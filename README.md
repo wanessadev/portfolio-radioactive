@@ -16,6 +16,10 @@ Este é o meu diretório pessoal de evolução acadêmica. Desenvolvi este mini-
 
 🚀 **Acesse o Terminal:** [https://wanessadev.github.io/portfolio-radioactive/](https://wanessadev.github.io/portfolio-radioactive/)
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/d961947418e6f9f2ed57ffe98fa99496/tumblr_inline_n37t9kLv4H1qhwjx8.gif" width="400" alt="Estrela Pixel" />
+</p>
+
 ---
 
 ## 🛠️ Stack Tecnológica (Mainframe)
@@ -28,9 +32,6 @@ Este é o meu diretório pessoal de evolução acadêmica. Desenvolvi este mini-
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&color=00FF00&labelColor=black">
 </p>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/d961947418e6f9f2ed57ffe98fa99496/tumblr_inline_n37t9kLv4H1qhwjx8.gif" width="100" alt="Estrela Pixel" />
-</p>
 
 ---
 
