@@ -30,5 +30,5 @@ Este é o meu diretório pessoal de evolução acadêmica. Desenvolvi este mini-
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/84/0a/ac/840aacc45b8d39e796be96fb364b35f7.gif" width="250" alt="Gatinho Gamer" />
+  <img src="https://github.com/user-attachments/assets/4086bd9c-4580-4375-97cf-fa24ced3dc9d" width="600" alt="Gatinho Gamer" />
 </p>
