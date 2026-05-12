@@ -1,6 +1,10 @@
 # ☢️ Portfolio & Blog [Radioactive Edition]
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/4086bd9c-4580-4375-97cf-fa24ced3dc9d" width="550" alt="carregando" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge&logo=render&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/VERSION-2.0.ADS-green?style=for-the-badge&labelColor=black">
 </p>
